@@ -1,0 +1,14 @@
+.logo {
+    height: 75px;
+    background-color: lightgray;
+    width: 75px;
+    border-radius: 50%;
+    background-image: url(https://lipsum.app/random/1600x900);
+    background-size: cover;
+    background-position: center;
+}
+
+.main-header{
+    display: flex;
+    justify-content: space-between;
+}
